@@ -1,2 +1,2 @@
 # Logiqids-Assignment
-login referral system  using API
+login referral system for logiquids using API 
